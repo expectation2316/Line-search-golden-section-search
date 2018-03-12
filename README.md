@@ -12,3 +12,4 @@
 (7)置k=k+1;返回(3)。  
   
 ## 2.算法流程图
+![fault](https://github.com/jnswx/Line-search-golden-section-search/blob/master/picture.png)
